@@ -1,0 +1,453 @@
+1	trifluoperazine [421]	10 然	MCF7	1	.939	-.963
+2	fluphenazine [490]	10 然	MCF7	.988	.944	-.936
+3	prochlorperazine [455]	10 然	MCF7	.984	.956	-.915
+4	thioridazine [417]	10 然	MCF7	.965	.977	-.859
+5	chlorpromazine [419]	10 然	MCF7	.926	.966	-.795
+6	haloperidol [418]	10 然	MCF7	.834	.876	-.711
+7	troglitazone [1012]	10 然	MCF7	.728	.746	-.639
+8	staurosporine [423]	100 nM	MCF7	.714	.765	-.593
+9	thioridazine [422]	1 然	MCF7	.701	.696	-.638
+10	prochlorperazine [1053]	10 然	MCF7	.697	.745	-.58
+11	thioridazine [1010]	10 然	MCF7	.694	.801	-.519
+12	trifluoperazine [1004]	10 然	MCF7	.671	.766	-.511
+13	trifluoperazine [910]	10 然	MCF7	.654	.727	-.517
+14	pyrvinium [870]	1.25 然	MCF7	.645	.799	-.428
+15	troglitazone [1070]	10 然	MCF7	.64	.839	-.378
+16	prochlorperazine [995]	10 然	MCF7	.64	.76	-.457
+17	monensin [1105]	10.9 然	MCF7	.618	.781	-.395
+18	fluphenazine [1017]	10 然	MCF7	.608	.865	-.291
+19	fluphenazine [1075]	10 然	MCF7	.607	.852	-.303
+20	clozapine [416]	10 然	MCF7	.605	.847	-.303
+21	haloperidol [983]	10 然	MCF7	.604	.742	-.406
+22	thioridazine [1068]	10 然	MCF7	.598	.811	-.326
+23	deferoxamine [573]	100 然	MCF7	.597	.521	-.614
+24	trichostatin A [332]	100 nM	MCF7	.594	.684	-.446
+25	15-delta prostaglandin J2 [1069]	10 然	MCF7	.594	.552	-.578
+26	trichostatin A [1050]	100 nM	MCF7	.588	.649	-.469
+27	monastrol [610]	100 然	MCF7	.579	.6	-.501
+28	haloperidol [492]	10 然	MCF7	.571	.608	-.478
+29	prazosin [942]	10 然	MCF7	.568	.765	-.316
+30	MG-132 [1140]	21 然	MCF7	.566	.69	-.387
+31	fulvestrant [1076]	10 nM	MCF7	.565	.512	-.562
+32	resveratrol [841]	10 然	MCF7	.561	.598	-.469
+33	trichostatin A [331]	100 nM	MCF7	.56	.624	-.442
+34	HC toxin [909]	100 nM	MCF7	.558	.618	-.444
+35	nordihydroguaiaretic acid [1061]	1 然	MCF7	.554	.66	-.393
+36	calmidazolium [906]	5 然	MCF7	.553	.826	-.225
+37	vorinostat [1058]	10 然	MCF7	.549	.599	-.445
+38	cytochalasin B [1122]	20.8 然	MCF7	.544	.493	-.542
+39	nordihydroguaiaretic acid [1003]	1 然	MCF7	.543	.625	-.407
+40	vorinostat [1000]	10 然	MCF7	.543	.575	-.457
+41	trichostatin A [1112]	100 nM	MCF7	.533	.534	-.48
+42	ikarugamycin [866]	2 然	MCF7	.532	.696	-.316
+43	5279552 [960]	22 然	MCF7	.524	.571	-.425
+44	pyrvinium [978]	1.25 然	MCF7	.519	.599	-.388
+45	trichostatin A [1072]	1 然	MCF7	.516	.652	-.329
+46	5666823 [609]	100 然	MCF7	.516	.553	-.429
+47	5252917 [944]	14 然	MCF7	.514	.53	-.447
+48	trichostatin A [992]	100 nM	MCF7	.513	.529	-.447
+49	5253409 [961]	17 然	MCF7	.51	.575	-.395
+50	resveratrol [662]	50 然	PC3	.509	.566	-.402
+51	clozapine [1009]	10 然	MCF7	.506	.552	-.41
+52	trichostatin A [1014]	1 然	MCF7	.502	.546	-.408
+53	trichostatin A [873]	1 然	MCF7	.501	.548	-.405
+54	trichostatin A [981]	1 然	MCF7	.501	.518	-.435
+55	resveratrol [595]	50 然	MCF7	.5	.533	-.418
+56	resveratrol [958]	10 然	MCF7	.499	.433	-.517
+57	rottlerin [941]	10 然	MCF7	.496	.505	-.438
+58	cobalt chloride [383]	100 然	MCF7	.495	.57	-.372
+59	indometacin [453]	100 然	MCF7	.494	.581	-.358
+60	pararosaniline [893]	10 然	MCF7	.494	.475	-.465
+61	valproic acid [345]	10 mM	MCF7	.486	.584	-.34
+62	fulvestrant [1043]	1 然	MCF7	.485	.574	-.349
+63	colforsin [913]	50 然	MCF7	.48	.535	-.378
+64	geldanamycin [1008]	1 然	MCF7	.477	.389	-.518
+65	3-aminobenzamide [590]	10 mM	MCF7	.476	.531	-.374
+66	LY-294002 [461]	10 然	PC3	.471	.401	-.495
+67	5211181 [950]	12 然	MCF7	.47	.532	-.362
+68	sodium phenylbutyrate [434]	1 mM	PC3	.462	.251	-.628
+69	ikarugamycin [918]	2 然	MCF7	.461	.692	-.185
+70	monorden [489]	100 nM	MCF7	.457	.269	-.601
+71	trichostatin A [448]	100 nM	PC3	.456	.419	-.449
+72	17-allylamino-geldanamycin [1064]	1 然	MCF7	.456	.4	-.467
+73	5253409 [844]	17 然	MCF7	.452	.679	-.18
+74	3-hydroxy-DL-kynurenine [1109]	9.2 然	MCF7	.451	.436	-.421
+75	17-allylamino-geldanamycin [1005]	1 然	MCF7	.451	.373	-.484
+76	flufenamic acid [316]	10 然	MCF7	.446	.406	-.442
+77	celecoxib [922]	10 然	MCF7	.444	.564	-.281
+78	prazosin [826]	10 然	MCF7	.441	.581	-.257
+79	valproic acid [1047]	1 mM	MCF7	.439	.51	-.325
+80	17-allylamino-geldanamycin [1044]	1 然	MCF7	.438	.339	-.494
+81	butein [582]	10 然	PC3	.435	.615	-.212
+82	valproic acid [410]	10 mM	HL60	.434	.415	-.41
+83	17-allylamino-geldanamycin [916]	1 然	MCF7	.433	.312	-.512
+84	17-allylamino-geldanamycin [1056]	1 然	MCF7	.432	.402	-.42
+85	17-allylamino-geldanamycin [1063]	1 然	MCF7	.431	.476	-.344
+86	LY-294002 [424]	100 nM	MCF7	.429	.354	-.462
+87	wortmannin [977]	1 然	MCF7	.429	.214	-.602
+88	oxaprozin [971]	300 然	MCF7	.428	.367	-.447
+89	gefitinib [541]	10 然	HL60	.428	.337	-.477
+90	5248896 [838]	11 然	MCF7	.425	.5	-.309
+91	geldanamycin [972]	1 然	MCF7	.424	.424	-.382
+92	quinpirole [456]	1 然	MCF7	.423	.382	-.423
+93	fulvestrant [985]	1 然	MCF7	.423	.316	-.489
+94	monastrol [311]	100 然	MCF7	.421	.568	-.233
+95	ionomycin [882]	2 然	MCF7	.417	.51	-.284
+96	geldanamycin [1066]	1 然	MCF7	.416	.455	-.336
+97	rosiglitazone [1013]	10 然	MCF7	.411	.234	-.548
+98	15-delta prostaglandin J2 [446]	10 然	PC3	.41	.433	-.347
+99	5248896 [955]	11 然	MCF7	.408	.531	-.245
+100	pirinixic acid [481]	100 然	PC3	.407	.421	-.353
+101	valproic acid [23]	1 mM	MCF7	.405	.471	-.299
+102	5162773 [892]	7 然	MCF7	.405	.252	-.518
+103	N-phenylanthranilic acid [317]	10 然	MCF7	.404	.405	-.364
+104	15-delta prostaglandin J2 [1011]	10 然	MCF7	.4	.524	-.237
+105	blebbistatin [954]	17 然	MCF7	.397	.369	-.387
+106	verapamil [161]	10 然	MCF7	.395	.327	-.424
+107	Y-27632 [948]	3 然	MCF7	.394	.486	-.264
+108	LY-294002 [1065]	10 然	MCF7	.394	.291	-.458
+109	17-allylamino-geldanamycin [1006]	1 然	MCF7	.393	.434	-.313
+110	ciclosporin [261]	1 然	MCF7	.393	.365	-.382
+111	valproic acid [433]	1 mM	PC3	.393	.239	-.509
+112	17-allylamino-geldanamycin [998]	1 然	MCF7	.392	.375	-.371
+113	monorden [836]	100 nM	MCF7	.391	.309	-.434
+114	copper sulfate [500]	100 然	ssMCF7	.39	.558	-.184
+115	exisulind [314]	50 然	MCF7	.39	.408	-.334
+116	sodium phenylbutyrate [341]	100 然	MCF7	.389	.493	-.247
+117	bucladesine [959]	2 然	MCF7	.388	.25	-.488
+118	LM-1685 [612]	10 然	MCF7	.387	.466	-.271
+119	haloperidol [1041]	10 然	MCF7	.386	.278	-.457
+120	cobalt chloride [454]	100 然	MCF7	.385	.311	-.422
+121	indometacin [503]	100 然	SKMEL5	.384	.381	-.35
+122	geldanamycin [593]	1 然	MCF7	.384	.38	-.351
+123	alpha-estradiol [762]	10 nM	MCF7	.381	.384	-.341
+124	SC-58125 [208]	10 然	MCF7	.38	.378	-.345
+125	valproic acid [629]	1 mM	SKMEL5	.38	.325	-.398
+126	indometacin [262]	20 然	MCF7	.379	.42	-.301
+127	fulvestrant [704]	1 然	PC3	.379	.302	-.419
+128	geldanamycin [864]	1 然	MCF7	.375	.452	-.261
+129	imatinib [483]	10 然	PC3	.375	.438	-.275
+130	doxycycline [1113]	14.4 然	MCF7	.374	.314	-.397
+131	LY-294002 [328]	10 然	MCF7	.373	.289	-.42
+132	ciclosporin [602]	1 然	MCF7	.37	.375	-.329
+133	HNMPA-(AM)3 [583]	5 然	PC3	.369	.43	-.272
+134	geldanamycin [611]	1 然	MCF7	.369	.327	-.374
+135	monorden [953]	100 nM	MCF7	.369	.293	-.409
+136	Y-27632 [832]	3 然	MCF7	.365	.313	-.382
+137	17-allylamino-geldanamycin [381]	1 然	MCF7	.364	.296	-.397
+138	deferoxamine [485]	100 然	MCF7	.361	.377	-.31
+139	fasudil [343]	10 然	MCF7	.356	.392	-.286
+140	17-allylamino-geldanamycin [428]	1 然	MCF7	.355	.429	-.246
+141	estradiol [782]	10 nM	HL60	.355	.41	-.265
+142	dexamethasone [123]	1 然	MCF7	.354	.45	-.224
+143	monorden [999]	100 nM	MCF7	.353	.28	-.391
+144	trichostatin A [413]	100 nM	ssMCF7	.353	.255	-.417
+145	genistein [703]	10 然	PC3	.351	.357	-.31
+146	carbamazepine [835]	100 nM	MCF7	.351	.33	-.337
+147	dimethyloxalylglycine [584]	1 mM	PC3	.349	.298	-.365
+148	5224221 [839]	12 然	MCF7	.349	.237	-.426
+149	dopamine [491]	1 然	MCF7	.348	.227	-.435
+150	raloxifene [376]	100 nM	ssMCF7	.347	.396	-.264
+151	5109870 [904]	25 然	MCF7	.347	.329	-.331
+152	clotrimazole [905]	50 然	MCF7	.346	.322	-.337
+153	novobiocin [342]	100 然	MCF7	.345	.293	-.363
+154	novobiocin [632]	100 然	SKMEL5	.342	.456	-.195
+155	5255229 [949]	13 然	MCF7	.339	.388	-.256
+156	monorden [1057]	100 nM	MCF7	.339	.314	-.33
+157	5151277 [903]	14 然	MCF7	.335	.257	-.38
+158	novobiocin [437]	100 然	MCF7	.333	.372	-.262
+159	nocodazole [621]	1 然	MCF7	.333	.352	-.281
+160	rottlerin [914]	10 然	MCF7	.333	.296	-.337
+161	alpha-estradiol [702]	10 nM	PC3	.331	.31	-.32
+162	2-deoxy-D-glucose [344]	10 mM	MCF7	.331	.302	-.328
+163	colforsin [783]	50 然	HL60	.33	.322	-.305
+164	tamoxifen [375]	1 然	ssMCF7	.326	.205	-.416
+165	15-delta prostaglandin J2 [564]	10 然	SKMEL5	.325	.305	-.313
+166	estradiol [1079]	10 nM	MCF7	.324	.358	-.258
+167	LM-1685 [207]	10 然	MCF7	.321	.38	-.23
+168	docosahexaenoic acid ethyl ester [881]	100 然	MCF7	.321	.319	-.292
+169	tretinoin [384]	1 然	MCF7	.321	.204	-.407
+170	mercaptopurine [667]	10 然	PC3	.319	.332	-.274
+171	rofecoxib [205]	10 然	MCF7	.318	.248	-.356
+172	tamoxifen [143]	1 然	MCF7	.317	.349	-.253
+173	valproic acid [346]	2 mM	MCF7	.313	.269	-.326
+174	genistein [1015]	10 然	MCF7	.311	.297	-.295
+175	staurosporine [508]	10 nM	SKMEL5	.311	.284	-.308
+176	sirolimus [1045]	100 nM	MCF7	.31	.238	-.352
+177	sodium phenylbutyrate [502]	200 然	SKMEL5	.307	.385	-.198
+178	estradiol [414]	10 nM	ssMCF7	.305	.259	-.321
+179	resveratrol [622]	50 然	MCF7	.299	.315	-.254
+180	5140203 [908]	15 然	MCF7	.298	.217	-.349
+181	rofecoxib [251]	10 然	MCF7	.297	.179	-.385
+182	pirinixic acid [368]	100 然	MCF7	.294	.366	-.194
+183	tretinoin [447]	1 然	PC3	.293	.163	-.394
+184	pentamidine [639]	100 然	MCF7	.289	.314	-.235
+185	carbamazepine [952]	100 nM	MCF7	.283	.286	-.253
+186	tretinoin [224]	1 然	MCF7	.283	.278	-.261
+187	trichostatin A [364]	100 nM	HL60	.283	.189	-.349
+188	metformin [61]	10 然	MCF7	.282	.254	-.282
+189	valproic acid [409]	1 mM	HL60	.277	.286	-.241
+190	tretinoin [966]	1 然	MCF7	.275	.256	-.267
+191	monastrol [627]	100 然	MCF7	.27	.312	-.202
+192	docosahexaenoic acid ethyl ester [664]	100 然	PC3	.26	.307	-.187
+193	depudecin [874]	1 然	MCF7	.258	.295	-.196
+194	azathioprine [338]	100 然	MCF7	.258	.289	-.201
+195	clofibrate [263]	150 然	MCF7	.252	.272	-.208
+196	sodium phenylbutyrate [408]	1 mM	MCF7	.252	.261	-.218
+197	alpha-estradiol [403]	10 nM	ssMCF7	.252	.17	-.31
+198	troglitazone [370]	10 然	HL60	.249	.28	-.194
+199	novobiocin [499]	100 然	ssMCF7	.248	.2	-.272
+200	troglitazone [504]	10 然	SKMEL5	.246	.268	-.199
+201	blebbistatin [837]	17 然	MCF7	.246	.224	-.244
+202	diclofenac [445]	10 然	PC3	.246	.212	-.255
+203	nordihydroguaiaretic acid [415]	1 然	ssMCF7	.244	.212	-.252
+204	novobiocin [435]	100 然	PC3	.239	.154	-.301
+205	thalidomide [266]	100 然	MCF7	.227	.237	-.195
+206	troglitazone [431]	10 然	PC3	.211	.221	-.18
+207	raloxifene [388]	100 nM	HL60	.165	.129	-.185
+208	ikarugamycin [974]	2 然	MCF7	0	.8	.234
+209	ionomycin [871]	2 然	MCF7	0	.758	.244
+210	haloperidol [1024]	10 然	MCF7	0	.756	.218
+211	calmidazolium [486]	5 然	MCF7	0	.729	.204
+212	exisulind [309]	50 然	MCF7	0	.681	.296
+213	demecolcine [1103]	11.7 然	MCF7	0	.671	.326
+214	ionomycin [979]	2 然	MCF7	0	.652	.363
+215	genistein [1073]	10 然	MCF7	0	.632	.297
+216	staurosporine [425]	10 nM	MCF7	0	.619	.506
+217	colchicine [644]	100 nM	MCF7	0	.614	.227
+218	5182598 [976]	25 然	MCF7	0	.613	.291
+219	sulindac [168]	100 然	MCF7	0	.603	.505
+220	benserazide [641]	10 然	MCF7	0	.575	.37
+221	5211181 [834]	12 然	MCF7	0	.571	.316
+222	haloperidol [1082]	10 然	MCF7	0	.57	.379
+223	sulindac [307]	50 然	MCF7	0	.564	.36
+224	decitabine [920]	100 nM	MCF7	0	.556	.338
+225	monastrol [596]	100 然	MCF7	0	.538	.243
+226	monorden [325]	100 nM	MCF7	0	.533	.417
+227	5182598 [868]	25 然	MCF7	0	.521	.265
+228	minocycline [1135]	10.5 然	MCF7	0	.52	.485
+229	W-13 [440]	10 然	MCF7	0	.519	.261
+230	5186324 [900]	2 然	MCF7	0	.519	.297
+231	tolbutamide [142]	100 然	MCF7	0	.518	.396
+232	BW-B70C [1132]	31.6 然	MCF7	0	.507	.246
+233	tretinoin [849]	1 然	MCF7	0	.502	.364
+234	fluphenazine [494]	10 然	SKMEL5	0	.502	.201
+235	5149715 [890]	10 然	MCF7	0	.5	.362
+236	estradiol [373]	10 nM	ssMCF7	0	.491	.302
+237	DL-PPMP [1121]	2 然	MCF7	0	.478	.277
+238	phentolamine [1138]	11.5 然	MCF7	0	.477	.288
+239	dexamethasone [374]	1 然	ssMCF7	0	.474	.228
+240	W-13 [643]	10 然	MCF7	0	.471	.184
+241	sulindac sulfide [308]	50 然	MCF7	0	.466	.27
+242	topiramate [915]	3 然	MCF7	0	.455	.273
+243	genistein [638]	10 然	MCF7	0	.439	.472
+244	tyrphostin AG-1478 [1141]	31.6 然	MCF7	0	.439	.351
+245	quercetin [917]	1 然	MCF7	0	.438	.292
+246	iloprost [488]	1 然	MCF7	0	.434	.42
+247	5186223 [885]	12 然	MCF7	0	.43	.326
+248	chlorpropamide [144]	100 然	MCF7	0	.43	.291
+249	rosiglitazone [1071]	10 然	MCF7	0	.42	.266
+250	tacrolimus [284]	1 然	MCF7	0	.413	.388
+251	monastrol [614]	20 然	MCF7	0	.409	.14
+252	5286656 [889]	50 然	MCF7	0	.409	.416
+253	tomelukast [222]	1 然	MCF7	0	.399	.156
+254	5279552 [843]	22 然	MCF7	0	.387	.372
+255	chlorpromazine [426]	1 然	MCF7	0	.383	.272
+256	clofibrate [444]	100 然	MCF7	0	.373	.255
+257	sirolimus [921]	100 nM	MCF7	0	.369	.235
+258	prednisolone [265]	1 然	MCF7	0	.364	.391
+259	estradiol [988]	100 nM	MCF7	0	.361	.247
+260	sodium phenylbutyrate [407]	1 mM	MCF7	0	.359	.243
+261	tetraethylenepentamine [498]	100 然	ssMCF7	0	.356	.212
+262	(-)-catechin [1101]	11 然	MCF7	0	.354	.295
+263	estradiol [1021]	10 nM	MCF7	0	.354	.511
+264	fulvestrant [310]	10 nM	MCF7	0	.349	.321
+265	valproic acid [1078]	500 然	MCF7	0	.335	.418
+266	nordihydroguaiaretic acid [203]	1 然	MCF7	0	.319	.404
+267	sirolimus [326]	100 nM	MCF7	0	.309	.406
+268	quercetin [283]	1 然	MCF7	0	.307	.389
+269	tioguanine [642]	10 然	MCF7	0	.306	.342
+270	phenyl biguanide [22]	10 然	MCF7	0	.306	.282
+271	probucol [592]	10 然	MCF7	0	.305	.427
+272	estradiol [121]	10 nM	MCF7	0	.304	.348
+273	imatinib [366]	10 然	MCF7	0	.3	.362
+274	arachidonyltrifluoromethane [327]	10 然	MCF7	0	.299	.318
+275	copper sulfate [438]	100 然	MCF7	0	.296	.197
+276	estradiol [365]	100 nM	MCF7	0	.29	.259
+277	SC-58125 [507]	10 然	SKMEL5	0	.289	.206
+278	5114445 [901]	10 然	MCF7	0	.287	.276
+279	15-delta prostaglandin J2 [201]	10 然	MCF7	0	.279	.496
+280	fludrocortisone [281]	1 然	MCF7	0	.278	.29
+281	butein [607]	10 然	MCF7	0	.278	.324
+282	5252917 [828]	14 然	MCF7	0	.267	.256
+283	valproic acid [1060]	50 然	MCF7	0	.266	.255
+284	monastrol [668]	100 然	PC3	0	.265	.194
+285	indometacin [452]	100 然	PC3	0	.256	.294
+286	yohimbine [1119]	22.9 然	MCF7	0	.254	.281
+287	rottlerin [825]	10 然	MCF7	0	.248	.414
+288	thalidomide [606]	100 然	MCF7	0	.246	.277
+289	NU-1025 [608]	100 然	MCF7	0	.243	.326
+290	valproic acid [497]	1 mM	ssMCF7	0	.243	.254
+291	paclitaxel [640]	100 nM	MCF7	0	.241	.323
+292	troglitazone [462]	10 然	PC3	0	.225	.188
+293	valproic acid [348]	50 然	MCF7	0	.223	.287
+294	tacrolimus [169]	1 然	MCF7	0	.218	.397
+295	genistein [267]	1 然	MCF7	0	.217	.378
+296	monastrol [605]	20 然	MCF7	0	.215	.454
+297	celecoxib [377]	10 然	MCF7	0	.198	.291
+298	phenformin [21]	10 然	MCF7	0	.184	.328
+299	estradiol [665]	10 nM	PC3	0	.18	.409
+300	genistein [268]	1 然	MCF7	0	.174	.362
+301	TTNPB [451]	100 nM	PC3	0	.118	.312
+302	valproic acid [458]	1 mM	PC3	0	-.122	-.349
+303	celecoxib [482]	10 然	PC3	0	-.131	-.188
+304	cobalt chloride [379]	100 然	MCF7	0	-.177	-.249
+305	MK-886 [264]	1 然	MCF7	0	-.179	-.356
+306	LY-294002 [501]	10 然	SKMEL5	0	-.18	-.281
+307	metformin [3]	100 nM	MCF7	0	-.183	-.468
+308	17-allylamino-geldanamycin [221]	100 nM	MCF7	0	-.184	-.329
+309	fasudil [436]	10 然	PC3	0	-.186	-.395
+310	LY-294002 [429]	10 然	PC3	0	-.191	-.331
+311	17-dimethylamino-geldanamycin [993]	100 nM	MCF7	0	-.192	-.419
+312	estradiol [387]	10 nM	HL60	0	-.193	-.195
+313	deferoxamine [460]	100 然	PC3	0	-.201	-.278
+314	LY-294002 [996]	100 nM	MCF7	0	-.206	-.424
+315	pirinixic acid [464]	100 然	PC3	0	-.208	-.146
+316	SC-58125 [542]	10 然	HL60	0	-.209	-.23
+317	17-allylamino-geldanamycin [947]	1 然	MCF7	0	-.218	-.375
+318	sirolimus [1022]	100 nM	MCF7	0	-.218	-.34
+319	wortmannin [389]	10 nM	HL60	0	-.231	-.281
+320	17-allylamino-geldanamycin [450]	1 然	PC3	0	-.232	-.22
+321	acetylsalicylic acid [315]	100 然	MCF7	0	-.232	-.293
+322	tetraethylenepentamine [405]	10 然	MCF7	0	-.234	-.298
+323	sodium phenylbutyrate [411]	1 mM	HL60	0	-.235	-.397
+324	iloprost [427]	1 然	MCF7	0	-.238	-.288
+325	5230742 [862]	17 然	MCF7	0	-.244	-.233
+326	tetraethylenepentamine [406]	100 然	MCF7	0	-.245	-.178
+327	sodium phenylbutyrate [363]	100 然	HL60	0	-.246	-.353
+328	depudecin [982]	1 然	MCF7	0	-.255	-.255
+329	LM-1685 [253]	10 然	MCF7	0	-.26	-.305
+330	LY-294002 [318]	10 然	MCF7	0	-.262	-.55
+331	fulvestrant [367]	1 然	MCF7	0	-.264	-.295
+332	chlorpromazine [1055]	1 然	MCF7	0	-.267	-.355
+333	12,13-EODE [1108]	200 nM	MCF7	0	-.277	-.274
+334	mesalazine [124]	100 然	MCF7	0	-.277	-.38
+335	felodipine [965]	10 然	MCF7	0	-.279	-.31
+336	alpha-estradiol [990]	10 nM	MCF7	0	-.282	-.231
+337	fulvestrant [523]	1 然	ssMCF7	0	-.285	-.367
+338	LY-294002 [1074]	10 然	MCF7	0	-.291	-.462
+339	alpha-estradiol [122]	10 nM	MCF7	0	-.301	-.265
+340	monastrol [681]	100 然	MCF7	0	-.304	-.241
+341	17-allylamino-geldanamycin [986]	1 然	MCF7	0	-.307	-.551
+342	rofecoxib [371]	10 然	HL60	0	-.307	-.299
+343	17-allylamino-geldanamycin [831]	1 然	MCF7	0	-.307	-.324
+344	acetylsalicylic acid [1042]	100 然	MCF7	0	-.309	-.292
+345	tamoxifen [380]	1 然	MCF7	0	-.316	-.224
+346	17-dimethylamino-geldanamycin [1051]	100 nM	MCF7	0	-.318	-.328
+347	pirinixic acid [495]	100 然	SKMEL5	0	-.318	-.13
+348	celastrol [887]	2.5 然	MCF7	0	-.321	-.206
+349	sirolimus [1001]	100 nM	MCF7	0	-.325	-.453
+350	5224221 [956]	12 然	MCF7	0	-.337	-.311
+351	monorden [544]	100 nM	HL60	0	-.338	-.209
+352	phenanthridinone [1115]	51.2 然	MCF7	0	-.339	-.291
+353	metformin [1]	10 然	MCF7	0	-.339	-.191
+354	sirolimus [1080]	100 nM	MCF7	0	-.34	-.291
+355	LY-294002 [1077]	10 然	MCF7	0	-.344	-.545
+356	oxaprozin [863]	300 然	MCF7	0	-.346	-.348
+357	rosiglitazone [369]	10 然	HL60	0	-.346	-.287
+358	rofecoxib [463]	10 然	PC3	0	-.348	-.312
+359	tetraethylenepentamine [412]	100 然	HL60	0	-.349	-.266
+360	pirinixic acid [487]	100 然	MCF7	0	-.349	-.565
+361	valproic acid [994]	200 然	MCF7	0	-.35	-.338
+362	sirolimus [987]	100 nM	MCF7	0	-.351	-.33
+363	valproic acid [1002]	50 然	MCF7	0	-.351	-.448
+364	LY-294002 [1019]	10 然	MCF7	0	-.351	-.645
+365	chlorpromazine [997]	1 然	MCF7	0	-.355	-.48
+366	tretinoin [390]	1 然	HL60	0	-.359	-.248
+367	monorden [484]	100 nM	PC3	0	-.36	-.429
+368	monorden [449]	100 nM	PC3	0	-.362	-.299
+369	nitrendipine [336]	10 然	MCF7	0	-.363	-.277
+370	LY-294002 [1054]	100 nM	MCF7	0	-.363	-.336
+371	1,5-isoquinolinediol [543]	100 然	HL60	0	-.367	-.352
+372	4,5-dianilinophthalimide [578]	10 然	PC3	0	-.369	-.269
+373	oxamic acid [439]	10 mM	MCF7	0	-.372	-.428
+374	rofecoxib [166]	10 然	MCF7	0	-.376	-.274
+375	dexverapamil [164]	10 然	MCF7	0	-.38	-.308
+376	tretinoin [991]	1 然	MCF7	0	-.381	-.431
+377	sirolimus [1059]	100 nM	MCF7	0	-.381	-.371
+378	wortmannin [911]	10 nM	MCF7	0	-.382	-.61
+379	felodipine [848]	10 然	MCF7	0	-.384	-.261
+380	sirolimus [402]	100 nM	ssMCF7	0	-.392	-.302
+381	wortmannin [506]	10 nM	SKMEL5	0	-.394	-.381
+382	celecoxib [206]	10 然	MCF7	0	-.395	-.33
+383	alpha-estradiol [1048]	10 nM	MCF7	0	-.399	-.36
+384	valproic acid [989]	1 mM	MCF7	0	-.401	-.383
+385	tacrolimus [378]	1 然	MCF7	0	-.402	-.244
+386	wortmannin [1081]	10 nM	MCF7	0	-.41	-.44
+387	wortmannin [869]	1 然	MCF7	0	-.413	-.286
+388	tretinoin [1049]	1 然	MCF7	0	-.415	-.381
+389	LY-294002 [361]	10 然	HL60	0	-.428	-.335
+390	SC-58125 [254]	10 然	MCF7	0	-.43	-.35
+391	exemestane [165]	10 nM	MCF7	0	-.434	-.352
+392	mercaptopurine [334]	100 然	MCF7	0	-.44	-.237
+393	fisetin [579]	50 然	PC3	0	-.447	-.337
+394	sulfasalazine [204]	100 然	MCF7	0	-.45	-.271
+395	novobiocin [576]	100 然	MCF7	0	-.464	-.336
+396	4,5-dianilinophthalimide [624]	10 然	MCF7	0	-.47	-.286
+397	wortmannin [1023]	10 nM	MCF7	0	-.477	-.445
+398	5255229 [833]	13 然	MCF7	0	-.48	-.315
+399	metformin [2]	10 然	MCF7	0	-.487	-.281
+400	tyrphostin AG-825 [1114]	25.2 然	MCF7	0	-.49	-.343
+401	tetraethylenepentamine [574]	100 然	MCF7	0	-.508	-.299
+402	5213008 [898]	18 然	MCF7	0	-.515	-.334
+403	sirolimus [362]	100 nM	HL60	0	-.516	-.248
+404	LY-294002 [1007]	10 然	MCF7	0	-.568	-.573
+405	wortmannin [404]	10 nM	ssMCF7	0	-.571	-.35
+406	nordihydroguaiaretic acid [524]	1 然	ssMCF7	0	-.582	-.342
+407	LY-294002 [258]	10 然	MCF7	0	-.583	-.376
+408	LY-294002 [1016]	10 然	MCF7	0	-.592	-.521
+409	LY-294002 [401]	10 然	ssMCF7	0	-.617	-.438
+410	staurosporine [312]	1 然	MCF7	0	-.665	-.44
+411	valproic acid [347]	500 然	MCF7	-.515	-.257	.199
+412	monorden [493]	100 nM	SKMEL5	-.518	-.265	.193
+413	butirosin [666]	10 然	PC3	-.52	-.197	.263
+414	MK-886 [601]	1 然	MCF7	-.524	-.288	.176
+415	17-allylamino-geldanamycin [432]	1 然	PC3	-.528	-.318	.149
+416	nifedipine [335]	10 然	MCF7	-.54	-.18	.298
+417	oligomycin [442]	1 然	MCF7	-.547	-.249	.235
+418	5152487 [896]	10 然	MCF7	-.548	-.303	.182
+419	chlorpropamide [141]	100 然	MCF7	-.571	-.262	.243
+420	raloxifene [202]	100 nM	MCF7	-.573	-.273	.234
+421	fludrocortisone [282]	1 然	MCF7	-.582	-.259	.256
+422	genistein [382]	10 然	MCF7	-.593	-.232	.293
+423	TTNPB [223]	100 nM	MCF7	-.601	-.241	.291
+424	arachidonic acid [443]	10 然	MCF7	-.607	-.287	.25
+425	iloprost [496]	1 然	SKMEL5	-.635	-.282	.28
+426	metformin [4]	1 mM	MCF7	-.653	-.229	.349
+427	arachidonyltrifluoromethane [594]	10 然	MCF7	-.66	-.344	.24
+428	acetylsalicylic acid [984]	100 然	MCF7	-.663	-.334	.253
+429	rosiglitazone [430]	10 然	PC3	-.664	-.225	.363
+430	celecoxib [252]	10 然	MCF7	-.669	-.278	.314
+431	amitriptyline [167]	1 然	MCF7	-.669	-.281	.311
+432	5230742 [970]	17 然	MCF7	-.671	-.36	.234
+433	splitomicin [661]	20 然	PC3	-.673	-.389	.207
+434	diclofenac [333]	10 然	MCF7	-.686	-.367	.24
+435	carbamazepine [919]	100 nM	MCF7	-.698	-.268	.35
+436	copper sulfate [575]	100 然	MCF7	-.707	-.288	.338
+437	copper sulfate [459]	100 然	PC3	-.71	-.272	.356
+438	bucladesine [842]	2 然	MCF7	-.713	-.279	.352
+439	tetraethylenepentamine [457]	100 然	PC3	-.714	-.24	.392
+440	NU-1025 [313]	100 然	MCF7	-.715	-.38	.253
+441	17-allylamino-geldanamycin [521]	1 然	ssMCF7	-.723	-.38	.26
+442	valproic acid [1020]	500 然	MCF7	-.739	-.36	.294
+443	felodipine [337]	10 然	MCF7	-.748	-.347	.315
+444	17-allylamino-geldanamycin [505]	1 然	SKMEL5	-.784	-.477	.217
+445	rofecoxib [256]	10 然	MCF7	-.791	-.357	.343
+446	nifedipine [603]	10 然	MCF7	-.791	-.367	.333
+447	colchicine [630]	1 然	SKMEL5	-.847	-.527	.223
+448	U0125 [663]	1 然	PC3	-.889	-.446	.341
+449	arachidonic acid [441]	10 然	MCF7	-.907	-.385	.418
+450	bucladesine [591]	20 然	MCF7	-.929	-.273	.549
+451	benserazide [631]	10 然	SKMEL5	-.941	-.496	.337
+452	dexamethasone [255]	1 然	MCF7	-.962	-.484	.367
+453	arachidonic acid [604]	10 然	MCF7	-1	-.455	.43

@@ -5,4 +5,10 @@ include *.md
 include LICENSE.txt
 
 # Include the data files
-recursive-include data *
+graft src/data
+
+# Include the tests file
+graft tests
+
+# Remove pointless files, such as compiled Python
+global-exclude *.py[cod]
